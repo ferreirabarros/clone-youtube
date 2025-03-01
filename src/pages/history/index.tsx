@@ -3,6 +3,17 @@ function History(){
   return ( 
       <>
         History
+        History
+        History
+        History
+        History
+        History
+        History
+        History
+        History
+        History
+        History
+        History
       </>
   )
 }
